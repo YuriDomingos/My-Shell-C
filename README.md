@@ -8,7 +8,7 @@ This is the implementation of a Linux shell written in C language.
 ## How to run the shell
 
 1. Run the command `make` on your terminal.
-2. Run `./angel` to get a prompt of the form `<username@system_name:path>`.
+2. Run `./yuri` to get a prompt of the form `<username@system_name:path>`.
 3. Run any command in the shell. It can entail as many number of tabs and spaces, the shell accounts for those.
 4. In order to exit, run `exit`.
 
